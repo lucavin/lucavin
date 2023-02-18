@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Luca</h1>
 
-<!--
-**lucavin/lucavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A Compsci student from Sydney, Australia!</h3>
 
-Here are some ideas to get you started:
+- 🌱 I am currently learning **React**, **MIPS Assembly**, and **Systems Programming in C**!
+- 📫 Email me at [dev@luca.vin](mailto:dev@luca.vin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lucavin&theme=material&hide_border=true&border_radius=5">
+</div>
+
+<h2 align="left">Metrics:</h2>
+
+<div align="center">
+  <h3 align="center">Coding time tracker</h3>
+  <img align="center" src="metrics.plugin.wakatime.svg" alt="Wakatime Metrics" width="400">
+  <h3 align="center">LeetCode tracker</h3>
+  <img align="center" src="metrics.plugin.leetcode.svg" alt="LeetCode Metrics" width="400">
+</div>
