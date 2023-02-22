@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="231" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="350" class="">
     <defs>
         <style/>
     </defs>
@@ -77,6 +77,38 @@
                                 <span class="name">SCSS</span>
                                 <div class="bar" style="width: 5.5920000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="column chart">
+                        <h3>Code editors</h3>
+                        <div class="chart-bars horizontal">
+                            <div class="entry">
+                                <span class="name">VS Code</span>
+                                <div class="bar" style="width: 78.82400000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">99%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Neovim</span>
+                                <div class="bar" style="width: 1.176%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="column chart">
+                        <h3>Operating systems</h3>
+                        <div class="chart-bars horizontal">
+                            <div class="entry">
+                                <span class="name">Mac</span>
+                                <div class="bar" style="width: 66.66399999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">83%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Linux</span>
+                                <div class="bar" style="width: 13.336000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
                             </div>
                         </div>
                     </section>
