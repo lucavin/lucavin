@@ -13,7 +13,7 @@
 
 <div align="center">
   <h3 align="center">Coding time tracker</h3>
-  <img align="center" src="metrics.plugin.wakatime.svg" alt="Wakatime Metrics" width="600">
+  <img align="center" src="metrics.plugin.wakatime.svg" alt="Wakatime Metrics" width="500">
   <h3 align="center">LeetCode tracker</h3>
-  <img align="center" src="metrics.plugin.leetcode.svg" alt="LeetCode Metrics" width="600">
+  <img align="center" src="metrics.plugin.leetcode.svg" alt="LeetCode Metrics" width="500">
 </div>
